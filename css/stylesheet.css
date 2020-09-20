@@ -1,0 +1,15 @@
+body{
+    background: #ffd051;
+    
+}
+.content {
+    width: 40%;
+    margin: 0 auto;
+    padding: 30px 0;
+    text-align: center;
+
+}
+img {
+
+    width: 100%;
+}
